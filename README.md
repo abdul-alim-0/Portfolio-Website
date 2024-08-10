@@ -1,9 +1,12 @@
 <h1 align = "center">Personal Portfolio Website</h1>
 <h3 align="center">Responsive Portfolio Website using HTML, CSS, and Bootstrap 5</h3>
 
-For more Website Follow Me ➡️ [GitHub](https://linkedin.com/in/abdul-alim-0)<br><br>
+For more Website Follow Me ➡️ [GitHub](https://linkedin.com/in/abdul-alim-0)<br><br>  
 
-### Website Preview
+
+<h1 align="center"> Website Preview </h1>  
+
+### For Live Overview ➡️ [Portfolio Website](https://abdul-alim-0.github.io/Portfolio-Website/)<br>
 #### Home Page
 <img src="./website_image/image 1.png" width="900">
 
